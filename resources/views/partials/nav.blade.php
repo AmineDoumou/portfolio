@@ -7,7 +7,7 @@
             <a href="/"><h1 class="font-medium text-4xl antialiased font-Roboto_Mono">Amine Doumou</h1></a>
         </div>
         <div class="mb-2 flex justify-center">
-            <h5 class="antialiased font-Roboto_Mono">Hacker, maker of things</h5>
+            <h5 class="antialiased font-Roboto_Mono">Passionate Laravel artisan at work</h5>
         </div>
         <div class="flex justify-center">
             <ul class="flex flex-row underline decoration-dotted font-Roboto_Mono">
